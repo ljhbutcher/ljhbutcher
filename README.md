@@ -6,9 +6,8 @@
 - 🤔 I’m looking for help with finding my first job in the world of tech!
 - 💬 Ask me anything about Spainish culture or coffee
 - 📫 How to reach me: liam_butcher@hotmail.co.uk
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fully fluent in Spanish
-- 
+
 ### My skills include
 
 <p align="center">
