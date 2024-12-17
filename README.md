@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-<!--
-**ljhbutcher/ljhbutcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on becoming a full stack web developer with the Le Wagon intensive bootcamp.
+- 🔭  I’m currently working on becoming a full stack web developer with the Le Wagon intensive bootcamp.
 - 🌱 I’m currently learning to complete AJAX and fecth APIs to use with my programs.
 - 👯 I’m looking to collaborate in teams where I will be able to put what I've learnt in the bootcamp to the test.
 - 🤔 I’m looking for help with finding my first job in the world of tech!
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: liam_butcher@hotmail.co.uk
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am fully fluent in Spanish
--->
