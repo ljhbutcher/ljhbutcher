@@ -42,6 +42,7 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, bu
    <br>
 <br>
 <a target="_blank" href="https://github.com/ljhbutcher/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://github.com/ljhbutcher/"><img src="https://github.com/user-attachments/assets/246f6a72-06ae-4298-a0e2-207f48459276)"></img></a>
   
 <br>
 </p>      
