@@ -15,4 +15,5 @@
 	<img title="HTML" alt="HTML" src="https://github.com/user-attachments/assets/25b0775d-4f2a-4b0d-8c7b-7485aae36b3d" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="CSS" alt="CSS" src="https://github.com/user-attachments/assets/3606769f-7ef1-4e1d-a172-c0dc81609175" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Ruby" alt="Ruby" src="https://github.com/user-attachments/assets/fe151094-1c5c-4317-bf17-99f73b49b367" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Ruby on rails" alt="Ruby on rails" src="[https://github.com/user-attachments/assets/fe151094-1c5c-4317-bf17-99f73b49b367]				(https://en.wikipedia.org/wiki/Ruby_on_Rails#/media/File:Ruby_On_Rails_Logo.svg)" width="40" height="40" style="vertical-align:down; margin:4px"/>
 </p>  
