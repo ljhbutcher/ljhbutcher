@@ -18,14 +18,11 @@
 
 ***
 
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljhbutcher&layout=pie&hide=dockerfile">
-    </td>
-    <td align="right">
-      <h3>📚 My Tech Stack</h3>
+<p align="left">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljhbutcher&layout=pie&hide=dockerfile">
+</p>
+
+<h3 align="left">📚 My Tech Stack</h3>
+<p align="center">
       <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,heroku,figma">
-    </td>
-  </tr>
-</table>
+</p>
